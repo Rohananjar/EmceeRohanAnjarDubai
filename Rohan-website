@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Rohan Anjar — Emcee / Anchor (UAE)</title>
+<meta name="description" content="Rohan Anjar — Professional Emcee & Anchor based in UAE. High-energy hosting for corporate events, weddings, sports, and concerts. Book now!" />
+
+<!-- Open Graph -->
+<meta property="og:title" content="Rohan Anjar — Emcee / Anchor (UAE)" />
+<meta property="og:description" content="Professional Emcee & Anchor based in UAE. High-energy hosting for corporate events, weddings, sports, and concerts." />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="hero.jpg" />
+
+<style>
+  :root{
+    --accent:#ff0050;      /* Neon pink/red */
+    --accent2:#00e0ff;     /* Neon cyan */
+    --bg:#050505;
+    --ink:#e8e8e8;
+    --muted:#9ca3af;
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
+  body{
+    margin:0;
+    background: radial-gradient(circle at 30% 20%, #0c0c0c, #000 80%);
+    color:var(--ink);
+    -webkit-font-smoothing:antialiased;
+  }
+  a{text-decoration:none;color:var(--accent2)}
+  .wrap{max-width:1200px;margin:0 auto;padding:20px}
+  header{display:flex;align-items:center;justify-content:space-between;padding:16px 0}
+  .logo h1{margin:0;font-size:22px;letter-spacing:1px;color:var(--accent)}
+  .logo p{margin:0;font-size:13px;color:var(--muted)}
+  nav a{margin-left:22px;color:var(--ink);font-weight:600;position:relative}
+  nav a::after{content:"";position:absolute;left:0;bottom:-6px;width:0;height:2px;background:var(--accent2);transition:0.3s}
+  nav a:hover::after{width:100%}
+  .hero{display:grid;grid-template-columns:1fr 420px;gap:32px;align-items:center;padding:40px 0}
+  .hero h2{font-size:40px;color:white;margin:0 0 10px;text-shadow:0 0 8px var(--accent2)}
+  .tag{display:inline-block;padding:6px 14px;background:linear-gradient(90deg,var(--accent),var(--accent2));color:white;border-radius:999px;font-size:12px;font-weight:700;margin-bottom:14px;letter-spacing:1px}
+  .hero p{line-height:1.6;color:#ddd}
+  .btn{padding:12px 20px;border-radius:8px;font-weight:700;cursor:pointer;text-transform:uppercase;letter-spacing:0.5px;border:2px solid transparent;transition:0.3s}
+  .btn-primary{background:linear-gradient(90deg,var(--accent),var(--accent2));color:white;box-shadow:0 0 18px rgba(255,0,80,0.6)}
+  .btn-primary:hover{transform:scale(1.05)}
+  .btn-ghost{background:transparent;border:2px solid var(--accent2);color:var(--accent2)}
+  .card{background:rgba(255,255,255,0.03);padding:16px;border-radius:12px;border:1px solid rgba(255,255,255,0.05);box-shadow:0 0 12px rgba(0,224,255,0.15)}
+  .card img{width:100%;height:250px;object-fit:cover;border-radius:8px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:30px}
+  .section{background:rgba(255,255,255,0.02);padding:20px;border-radius:12px;border:1px solid rgba(255,255,255,0.05)}
+  .section h3{margin-top:0;color:var(--accent2);text-shadow:0 0 6px var(--accent2)}
+  .chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+  .chip{padding:8px 14px;border-radius:999px;background:rgba(255,255,255,0.05);color:var(--ink);font-size:13px;font-weight:600;border:1px solid rgba(0,224,255,0.2)}
+  ul{color:var(--muted);margin:12px 0;padding-left:20px}
+  ul li{margin-bottom:8px}
+  .testi .bubble{background:rgba(255,255,255,0.05);padding:16px;border-radius:12px;box-shadow:0 0 8px rgba(255,0,80,0.25);margin-bottom:12px}
+  form{display:flex;flex-direction:column;gap:12px}
+  input,select,textarea{padding:10px;border-radius:6px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.1);color:white}
+  footer{margin-top:40px;color:var(--muted);font-size:13px;text-align:center;padding:20px 0;border-top:1px solid rgba(255,255,255,0.05)}
+  @media(max-width:900px){
+    .hero{grid-template-columns:1fr}
+    .grid{grid-template-columns:1fr}
+  }
+  /* Neon glow animation */
+  @keyframes glow{
+    0%,100%{text-shadow:0 0 8px var(--accent),0 0 16px var(--accent2)}
+    50%{text-shadow:0 0 12px var(--accent2),0 0 24px var(--accent)}
+  }
+  h2{animation:glow 4s ease-in-out infinite}
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="logo">
+        <h1>ROHAN ANJAR</h1>
+        <p>Emcee • Anchor • UAE & India</p>
+      </div>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#book">Book</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div>
+        <span class="tag">🔥 Book Now • Limited Dates 🔥</span>
+        <h2>High-energy Emcee for unforgettable events</h2>
+        <p>
+          Hosting 60+ shows a year across UAE & India, Rohan Anjar is known for electrifying audiences, sharp stage control, and creating moments people never forget.  [oai_citation:0‡V1Emcee-RohanAnjar-Portfolio-24.pdf](file-service://file-CQ9iWMZhCVpWDtAx6KmrL2)
+        </p>
+        <div style="margin-top:20px;display:flex;gap:12px">
+          <button class="btn btn-primary" onclick="location.href='#book'">Book Rohan</button>
+          <button class="btn btn-ghost" onclick="location.href='#portfolio'">See Portfolio</button>
+        </div>
+      </div>
+      <div class="card">
+        <img src="hero.jpg" alt="Rohan on stage">
+        <p style="margin-top:10px;color:#ccc">From protocol-driven corporate events to high-voltage concerts, Rohan brings precision and fire to every stage.  [oai_citation:1‡V1Emcee-RohanAnjar-Portfolio-24.pdf](file-service://file-CQ9iWMZhCVpWDtAx6KmrL2)</p>
+      </div>
+    </section>
+
+    <section class="grid">
+      <div class="section" id="about">
+        <h3>Why Rohan?</h3>
+        <div class="chips">
+          <span class="chip">Crowd Engagement</span>
+          <span class="chip">Corporate Galas</span>
+          <span class="chip">Weddings</span>
+          <span class="chip">Sports</span>
+          <span class="chip">Concerts</span>
+        </div>
+        <p style="margin-top:14px">
+          Spontaneity and vibrancy on stage. From corporate protocols to wild party vibes, Rohan adapts to the crowd and keeps the energy alive.  [oai_citation:2‡V1Emcee-RohanAnjar-Portfolio-24.pdf](file-service://file-CQ9iWMZhCVpWDtAx6KmrL2)
+        </p>
+      </div>
+      <div class="section" id="portfolio">
+        <h3>Featured Events</h3>
+        <ul>
+          <li>BCC – Bollywood Celebrity Cricket League</li>
+          <li>World Of Cricket – Powered by DULSCO at Emirates Dubai 7s</li>
+          <li>Laughter Nights ft. Dr. Sanket Bhosale</li>
+          <li>Holi Music Mantra ft. Indian Idol artists</li>
+          <li>ECC Sports Day – Emirates Contract Company</li>
+          <li>DP World ILT20</li>
+          <li>ICC Women's T20 World Cup 2024</li>
+          <li>DHL - Fam Jam 2024</li>
+        </ul>
+        <p style="font-size:13px;color:var(--muted)">Source: portfolio PDF.  [oai_citation:3‡V1Emcee-RohanAnjar-Portfolio-24.pdf](file-service://file-CQ9iWMZhCVpWDtAx6KmrL2)</p>
+      </div>
+    </section>
+
+    <section class="grid" style="margin-top:30px">
+      <div class="section">
+        <h3>What Clients Say</h3>
+        <div class="testi">
+          <div class="bubble">
+            “Amazing energy — kept the crowd hooked start to finish.”
+            <div style="font-size:12px;color:var(--muted)">— ICC Women's T20 Organizer</div>
+          </div>
+        </div>
+        <div class="testi">
+          <div class="bubble">
+            “Professional and flawless with flow and timing.”
+            <div style="font-size:12px;color:var(--muted)">— Emirates Contract Company</div>
+          </div>
+        </div>
+      </div>
+      <div class="section" id="book">
+        <h3>Book Rohan</h3>
+        <form onsubmit="handleSubmit(event)">
+          <input id="name" placeholder="Your Name" required>
+          <input id="email" type="email" placeholder="Email" required>
+          <select id="eventType" required>
+            <option value="">Event Type</option>
+            <option>Wedding</option>
+            <option>Corporate</option>
+            <option>Sports</option>
+            <option>Concert</option>
+            <option>Other</option>
+          </select>
+          <input id="date" type="date">
+          <textarea id="msg" rows="3" placeholder="Event details..."></textarea>
+          <button class="btn btn-primary" type="submit">Send Request</button>
+        </form>
+      </div>
+    </section>
+
+    <section class="section" id="contact" style="margin-top:30px">
+      <h3>Contact</h3>
+      <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+      <p>Phone: +971 (add your number)</p>
+      <p><a href="V1Emcee-RohanAnjar-Portfolio-24.pdf" download>Download Full Portfolio (PDF)</a></p>
+    </section>
+
+    <footer>
+      © <span id="yr"></span> Rohan Anjar — Emcee • Made in UAE
+    </footer>
+  </div>
+
+<script>
+  document.getElementById("yr").textContent=new Date().getFullYear();
+  function handleSubmit(e){
+    e.preventDefault();
+    const name=document.getElementById("name").value;
+    const email=document.getElementById("email").value;
+    const type=document.getElementById("eventType").value;
+    const date=document.getElementById("date").value||"TBD";
+    const msg=document.getElementById("msg").value;
+    const subject=encodeURIComponent("Booking Request from "+name);
+    const body=encodeURIComponent(`Name: ${name}\nEmail: ${email}\nEvent: ${type}\nDate: ${date}\n\nDetails:\n${msg}`);
+    window.location.href=`mailto:your-email@example.com?subject=${subject}&body=${body}`;
+  }
+</script>
+</body>
+</html>
